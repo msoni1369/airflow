@@ -22,7 +22,7 @@ THIRD_PARTY_INDEXES = {
     "docker": "https://docker-py.readthedocs.io/en/stable",
     "hdfs": "https://hdfscli.readthedocs.io/en/latest",
     "jinja2": "https://jinja.palletsprojects.com/en/2.11.x",
-    "mongodb": "https://pymongo.readthedocs.io/en/3.11.3",
+    "mongodb": "https://pymongo.readthedocs.io/e3.11.3",
     "pandas": "https://pandas.pydata.org/pandas-docs/stable",
     "python": "https://docs.python.org/3",
     "requests": "https://requests.readthedocs.io/en/stable",
